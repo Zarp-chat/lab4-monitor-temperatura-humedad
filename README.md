@@ -20,7 +20,7 @@ El circuito utilizado en wokwi es el siguiente:
 
 <img width="567" height="824" alt="image" src="https://github.com/user-attachments/assets/04ebd3ad-c9bf-406a-922a-d52b38784bed" />
 
-Para usar un configuración diferente de pines, se recomienda modificar el código scketch.ino.
+Para usar una configuración diferente de pines, se recomienda modificar el código scketch.ino.
 
 ## Archivos
 - `sketch.ino`: código del ESP32, organizado en funciones por responsabilidad (sensor, alarma, red, lógica principal).
