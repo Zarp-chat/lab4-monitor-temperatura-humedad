@@ -1,0 +1,1 @@
+#define MQTT_TOKEN "copia el token de tu dashboard"
